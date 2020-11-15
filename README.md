@@ -1,13 +1,5 @@
 # 7.2-part_1
-#vimaldaga 
-#righteducation
-#educationredefine
-#rightmentor
-#worldrecordholder
-#linuxworld
-#makingindiafutureready
-#righeudcation 
-#arthbylw
+# #vimaldaga #righteducation #educationredefine #rightmentor #worldrecordholder #linuxworld #makingindiafutureready #righeudcation  #arthbylw
 
 step 1
 
